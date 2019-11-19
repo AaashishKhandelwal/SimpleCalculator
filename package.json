@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aman-in-java/calc.git"
+    "url": "git+https://github.com/AaashishKhandelwal/SimpleCalculator.git"
   },
   "author": "Aman",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aman-in-java/calc/issues"
+    "url": "https://github.com/AaashishKhandelwal/SimpleCalculator/issues"
   },
-  "homepage": "https://github.com/aman-in-java/calc#readme",
+  "homepage": "https://github.com/AaashishKhandelwal/SimpleCalculator#readme",
   "dependencies": {
     "express": "^4.16.4"
   },
